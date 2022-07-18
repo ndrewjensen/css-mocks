@@ -28,9 +28,3 @@ body {
   height: 100px;
   background-color: blue;
 }
-
-.two, .three, .four {
-  position: relative;
-  top: 50px;
-  left: 50px;
-}
